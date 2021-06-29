@@ -1,2 +1,2 @@
 # HC-SR04-Libraries
-Arduino library for module HC-SR04.
+Importing a .zip HC-SR04 Library Sketch > Include Library > Add .ZIP Library
