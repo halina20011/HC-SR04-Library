@@ -1,3 +1,8 @@
+/*#################################################################################
+ * This library was produced by Halina
+ * 
+ *  github: https://github.com/halina20011/HC-SR04-Libraries
+###################################################################################*/
 #include <HC-SR04.h>
 
 #define echoPin 2
