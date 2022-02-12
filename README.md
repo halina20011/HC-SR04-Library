@@ -1,5 +1,6 @@
 # HC-SR04-Libraries
 
+
 <div id="header" align="center">
     <img src="https://github.com/halina20011/halina20011/blob/main/Halina-Circle.png" width="100"/>
     <div id="badges">
@@ -14,7 +15,7 @@
     </a>
 </div>
 
-align="left"
+<div align="left"></div>
 ## How to add this library to Arduino IDE?
 
 1) Download first library and extract it.
