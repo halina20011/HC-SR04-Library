@@ -14,7 +14,7 @@
     </a>
 </div>
 
-
+align="left"
 ## How to add this library to Arduino IDE?
 
 1) Download first library and extract it.
