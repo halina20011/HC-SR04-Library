@@ -16,5 +16,5 @@
 
 <h1>How to add this library to Arduino IDE?</h1>
 
-- Download first library and extract it.
-- Open the extracted folder and move the "HC-SR04" subfolder to location where you have other Arduino libraries. On windows it is ```~/Documents/Arduino/libraries/```.
+1) Download first library and extract it.
+2) Open the extracted folder and move the "HC-SR04" subfolder to location where you have other Arduino libraries. On windows it is ```~/Documents/Arduino/libraries/```.
